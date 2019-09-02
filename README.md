@@ -5,7 +5,7 @@
 不同类型的打印
 
 
-![Xcode打印](%E6%88%AA%E5%B1%8F2019-09-02%E4%B8%8B%E5%8D%882.40.26.png)
+![Xcode打印](http://px760bfk1.bkt.clouddn.com/SwiftPM/SwiftPM--DebugTools.png)
 
 
 成功
