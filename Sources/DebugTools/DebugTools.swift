@@ -59,7 +59,7 @@ public func DLog<T>(_ message : T,type : LogType = .default,fileName : String = 
  - archived = false
  - assignees_url = https://api.github.com/repos/zestyping/q/assignees{/user}
  */
-protocol ModleDescription : CustomStringConvertible,CustomDebugStringConvertible {}
+public protocol ModleDescription : CustomStringConvertible,CustomDebugStringConvertible {}
 
 extension ModleDescription {
     var debugDescription: String {
