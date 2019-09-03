@@ -5,7 +5,7 @@
 不同类型的打印
 
 
-![Xcode打印](http://b-ssl.duitang.com/uploads/item/201411/08/20141108074440_3dFfP.jpeg)
+![Xcode打印](http://lessimore.cn/SwiftPM/SwiftPM--DebugTools.png)
 
 
 成功
