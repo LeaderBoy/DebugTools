@@ -62,7 +62,7 @@ public func DLog<T>(_ message : T,type : LogType = .default,fileName : String = 
 public protocol ModleDescription : CustomStringConvertible,CustomDebugStringConvertible {}
 
 extension ModleDescription {
-    var debugDescription: String {
+    public var debugDescription: String {
         // 获取 类/结构体 名称
         let name = String(describing: type(of: self))
         let mirror = Mirror(reflecting: self)
@@ -80,7 +80,7 @@ extension ModleDescription {
         return des
     }
     
-    var description: String {
+    public var description: String {
         return debugDescription
     }
 }
